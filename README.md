@@ -4,6 +4,7 @@
 <h2>table of contents in a github page via github wiki toc</h2>
  <i>link here:</i>
 https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki
+https://ecotrust-canada.github.io/markdown-toc/
 <h2>adding larger gifs to github Readme</h2>
  <i>link here:</i>
 https://dev.to/voyz/adding-large-external-gifs-to-github-readme-md-over-10mb-limit-49k2
