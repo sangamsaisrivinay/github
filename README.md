@@ -14,3 +14,6 @@ https://dev.to/voyz/adding-large-external-gifs-to-github-readme-md-over-10mb-lim
 <h3>github stats(tab),themes,most used languages(tab) and some other customisations</h3>
 <i>link here:</i>
 https://github.com/sangamsaisrivinay/github-readme-stats
+<h2>adding flow charts and sequences</h2>
+<i>link here:</i>
+https://github.com/ochko/markdoc
