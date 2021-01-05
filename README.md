@@ -20,3 +20,5 @@ https://github.com/ochko/markdoc
 <h2>markdown faqs</h2>
 <i>link here</i>
 https://www.codegrepper.com/code-examples/html/markdown+hover+text
+<h3>convert .html to .md</h3>
+<div><i>link here:</i>https://cloudconvert.com/html-to-md</div>
