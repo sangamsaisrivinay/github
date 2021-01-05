@@ -17,3 +17,6 @@ https://github.com/sangamsaisrivinay/github-readme-stats
 <h2>adding flow charts and sequences in markdown(.md) files</h2>
 <i>link here:</i>
 https://github.com/ochko/markdoc
+<h2>markdown faqs</h2>
+<i>link here</i>
+https://www.codegrepper.com/code-examples/html/markdown+hover+text
