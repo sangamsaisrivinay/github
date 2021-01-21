@@ -1,6 +1,5 @@
-# github
-<img src="https://user-images.githubusercontent.com/68855472/103441841-d0ed5a00-4c76-11eb-8e23-dc8cd4516ed0.gif
-">
+# github tricks
+<img src="https://user-images.githubusercontent.com/68855472/103441841-d0ed5a00-4c76-11eb-8e23-dc8cd4516ed0.gif" height="400" width="400">
 <h2>table of contents in a github page via github wiki toc</h2>
  <i>link here:</i>
 https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki
