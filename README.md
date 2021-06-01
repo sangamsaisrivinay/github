@@ -24,3 +24,6 @@ https://www.codegrepper.com/code-examples/html/markdown+hover+text
 <h3>view GitHub pdf without downloading</h3>
 https://stackoverflow.com/questions/30745981/opening-pdf-in-a-browser-with-github-pages
 <h3>host webpages using github pages for eg. a sample portfolio website</h3>
+
+<h3>add profile views count in your readme</h3>
+https://github.com/antonkomarev/github-profile-views-counter
